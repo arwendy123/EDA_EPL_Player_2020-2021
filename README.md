@@ -1,4 +1,4 @@
-# EDA_EPL_Player_2021-2022
+# Exploratory Data Analysis English Premier League 2020/2021
 
 This project aims to analyze data on goal scorers and player contributions in the English Premier League (EPL) for the 2020-2021 season. The data used is in the form of a CSV file containing information about goals scored, assists provided, yellow and red cards received, and other statistics for each player and team.
 
